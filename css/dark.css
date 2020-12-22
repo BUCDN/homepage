@@ -635,7 +635,7 @@ input {
     height: 60px;
     position: fixed;
     right: 15px;
-    top: 40px;
+    top: 10px;
     z-index: 999;
   }
 
