@@ -1,23 +1,23 @@
 ﻿$(document).ready(function(){
     /*--------------------搜索框样式控制js------------------------*/
 	 var search_types={
-        "types":[{name:"wd",action:"https://www.baidu.com/s",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scbaidugray.png",type:"baidu"},
-                 {name:"q",action:"https://www.google.com/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scgooglegray.png",type:"google"},
-                 {name:"q",action:"https://cn.bing.com/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scbinggray.png",type:"bing"},
-                 {name:"q",action:"https://www.so.com/s",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/sc360gray.png",type:"so"},
-                 {name:"query",action:"https://www.sogou.com/web",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scsougougray.png",type:"sogou"},
-                 {name:"q",action:"https://m.sm.cn/s",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scsmgray.png",type:"sm"},
-                 {name:"q",action:"https://mijisou.com/",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scmijisougray.png",type:"mijisou"},
-                 {name:"q",action:"https://lookao.com/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/sclookaogray.png",type:"lookao"},
-                 {name:"q",action:"https://duckduckgo.com/",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scduckduckgogray.png",type:"duckduckgo"},
-                 {name:"keyword",action:"https://search.bilibili.com/all",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scbiligray.png",type:"bili"},
-                 {name:"q",action:"https://v.qq.com/x/search/",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scqqvideogray.png",type:"qqvideo"},
-                 {name:"search_query",action:"https://www.youtube.com/results",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scyoutubegray.png",type:"youtube"},
-                 /*-{name:"q",action:"https://s.taobao.com/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/sctaobaogray.png",type:"taobao"},-*/
-                 {name:"q",action:"https://huaban.com/search/",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/schuabangray.png",type:"huaban"},
+        "types":[{name:"wd",action:"https://www.baidu.com/s",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scbaidugray.png",type:"baidu"},
+                 {name:"q",action:"https://www.google.com/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scgooglegray.png",type:"google"},
+                 {name:"q",action:"https://cn.bing.com/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scbinggray.png",type:"bing"},
+                 {name:"q",action:"https://www.so.com/s",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/sc360gray.png",type:"so"},
+                 {name:"query",action:"https://www.sogou.com/web",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scsougougray.png",type:"sogou"},
+                 {name:"q",action:"https://m.sm.cn/s",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scsmgray.png",type:"sm"},
+                 {name:"q",action:"https://mijisou.com/",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scmijisougray.png",type:"mijisou"},
+                 {name:"q",action:"https://lookao.com/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/sclookaogray.png",type:"lookao"},
+                 {name:"q",action:"https://duckduckgo.com/",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scduckduckgogray.png",type:"duckduckgo"},
+                 {name:"keyword",action:"https://search.bilibili.com/all",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scbiligray.png",type:"bili"},
+                 {name:"q",action:"https://v.qq.com/x/search/",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scqqvideogray.png",type:"qqvideo"},
+                 {name:"search_query",action:"https://www.youtube.com/results",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scyoutubegray.png",type:"youtube"},
+                 /*-{name:"q",action:"https://s.taobao.com/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/sctaobaogray.png",type:"taobao"},-*/
+                 {name:"q",action:"https://huaban.com/search/",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/schuabangray.png",type:"huaban"},
                  /*-------失效js--------*/
-                 {name:"word",action:"http://www.cilimao.me/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scciligray.png",type:"cili"},
-                 {name:"key",action:"http://neets.cc/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchChoice/scyingyingray.png?v=1.1",type:"yingyin"},
+                 {name:"word",action:"http://www.cilimao.me/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scciligray.png",type:"cili"},
+                 {name:"key",action:"http://neets.cc/search",stype:"https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchChoice/scyingyingray.png?v=1.1",type:"yingyin"},
                  
                  
                 ]};
