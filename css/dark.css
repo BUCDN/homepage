@@ -383,7 +383,7 @@ section>.split {
   max-width: 60%;
   max-height: 60%;
   margin: 0.3rem auto 0 auto;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/searchblackbai.png);
+  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchblackbai.png);
   background-size: cover;
 }
 
@@ -534,7 +534,7 @@ input {
   margin-bottom: 0;
   width: 60px;
   height: 60px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/QRcode2.png);
+  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/QRcode2.png);
   background-size: cover;
 }
 
@@ -561,7 +561,7 @@ input {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/sun.png);
+  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/sun.png);
   background-size: cover;
 }
 
@@ -569,7 +569,7 @@ input {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/mess1.png);
+  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/mess1.png);
   background-size: cover;
 }
 
@@ -577,7 +577,7 @@ input {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/coding1.png);
+  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/coding1.png);
   background-size: cover;
 }
 
@@ -585,14 +585,14 @@ input {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/RedPacket.png);
+  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/RedPacket.png);
   background-size: cover;
 }
 #cloud {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/cloud2.png);
+  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/cloud2.png);
   background-size: cover;
 }
 
@@ -643,7 +643,7 @@ input {
     width: 15px;
     height: 15px;
     margin-bottom: 10px;
-    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/sun.png);
+    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/sun.png);
     background-size: cover;
   }
 
@@ -675,7 +675,7 @@ input {
     width: 15px;
     height: 15px;
     margin-bottom: 10px;
-    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/mess1.png);
+    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/mess1.png);
     background-size: cover;
   }
 
@@ -684,7 +684,7 @@ input {
     width: 15px;
     height: 15px;
     margin-bottom: 10px;
-    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@main/images/coding1.png);
+    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/coding1.png);
     background-size: cover;
   }
   **/
