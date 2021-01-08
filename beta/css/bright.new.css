@@ -27,6 +27,7 @@ html, body {
 .logoBox img {
   width: 100%;
   height: 100%;
+  /**filter: brightness(50%);**/
 }
 
 .footer {
@@ -382,7 +383,7 @@ section>.split {
   max-width: 60%;
   max-height: 60%;
   margin: 0.3rem auto 0 auto;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/beta/images/searchblack.svg);
+  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchblack.svg);
   background-size: cover;
 }
 
@@ -461,8 +462,8 @@ section>.split {
   position: absolute;
   width: 1.8rem;
   height: 1.8rem;
-  right: 13%;
-  top: 4rem;
+  right: 9%;
+  top: 4.8rem;
   display: none;
   z-index: 41
 }
@@ -499,13 +500,13 @@ section>.split {
 }
 
 #search_bg #button_bg .keyword {
-  width: 81%;
+  width: 85%;
   height: auto;
   max-height: 12rem;
-  border: solid 1px #15120e;
+  border: solid 1px #e2e2e2;
   border-top: none;
   position: absolute;
-  top: 3.8rem;
+  top: 4.5rem;
   left: 7%;
   z-index: 40;
   display: none;
