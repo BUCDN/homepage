@@ -617,7 +617,7 @@ input {
 
   .topBox {
     font-size: 1.4rem;
-    padding-top: 10rem;
+    padding-top: 12rem;
     max-width: 800px;
     min-width: 350px;
     margin: 0 auto;
@@ -629,7 +629,7 @@ input {
   }
 
    .scBigBox {
-    width: 29rem;
+    width: 33rem;
     height: 7.3rem !important;
   }
 
