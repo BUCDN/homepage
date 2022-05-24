@@ -383,7 +383,7 @@ section>.split {
   max-width: 60%;
   max-height: 60%;
   margin: 0.3rem auto 0 auto;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchblack.svg);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/searchblack.svg);
   background-size: cover;
 }
 
@@ -544,7 +544,7 @@ input {
   margin-bottom: 0;
   width: 60px;
   height: 60px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/QRcode2.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/QRcode2.png);
   background-size: cover;
 }
 
@@ -571,7 +571,7 @@ input {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/sun.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/sun.png);
   background-size: cover;
 }
 
@@ -579,7 +579,7 @@ input {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/mess1.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/mess1.png);
   background-size: cover;
 }
 
@@ -587,7 +587,7 @@ input {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/coding1.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/coding1.png);
   background-size: cover;
 }
 
@@ -595,14 +595,14 @@ input {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/RedPacket.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/RedPacket.png);
   background-size: cover;
 }
 #cloud {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/cloud2.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/cloud2.png);
   background-size: cover;
 }
 
@@ -671,7 +671,7 @@ input {
     width: 15px;
     height: 15px;
     margin-bottom: 10px;
-    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/sun.png);
+    background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/sun.png);
     background-size: cover;
   }
 
@@ -703,7 +703,7 @@ input {
     width: 15px;
     height: 15px;
     margin-bottom: 10px;
-    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/mess1.png);
+    background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/mess1.png);
     background-size: cover;
   }
 
@@ -712,7 +712,7 @@ input {
     width: 15px;
     height: 15px;
     margin-bottom: 10px;
-    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/coding1.png);
+    background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/coding1.png);
     background-size: cover;
   }
   **/

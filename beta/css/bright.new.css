@@ -383,7 +383,7 @@ section>.split {
   max-width: 60%;
   max-height: 60%;
   margin: 0.3rem auto 0 auto;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/searchblack.svg);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/searchblack.svg);
   background-size: cover;
 }
 
@@ -539,7 +539,7 @@ section>.split {
   margin-bottom: 0;
   width: 60px;
   height: 60px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/QRcode.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/QRcode.png);
   background-size: cover;
 }
 /*------------------二维码---------------------*/
@@ -565,7 +565,7 @@ section>.split {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/moon.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/moon.png);
   background-size: cover;
 }
 
@@ -573,7 +573,7 @@ section>.split {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/mess.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/mess.png);
   background-size: cover;
 }
 
@@ -581,21 +581,21 @@ section>.split {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/coding.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/coding.png);
   background-size: cover;
 }
 #red {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/RedPacket.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/RedPacket.png);
   background-size: cover;
 }
 #cloud {
   width: 20px;
   height: 20px;
   margin-bottom: 10px;
-  background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/cloud1.png);
+  background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/cloud1.png);
   background-size: cover;
 }
 
@@ -664,7 +664,7 @@ section>.split {
     width: 15px;
     height: 15px;
     margin-bottom: 10px;
-    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/moon.png);
+    background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/moon.png);
     background-size: cover;
   }
 
@@ -696,7 +696,7 @@ section>.split {
     width: 15px;
     height: 15px;
     margin-bottom: 10px;
-    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/mess.png);
+    background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/mess.png);
     background-size: cover;
   }
 /**
@@ -704,7 +704,7 @@ section>.split {
     width: 15px;
     height: 15px;
     margin-bottom: 10px;
-    background: url(https://cdn.jsdelivr.net/gh/bucdn/homepage@latest/images/coding.png);
+    background: url(https://fastly.jsdelivr.net/gh/bucdn/homepage@latest/images/coding.png);
     background-size: cover;
   }
   **/
